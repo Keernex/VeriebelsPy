@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "VeriebelsPy", "VeriebelsPy.pyproj", "{4038D0EA-5D99-45A2-B2A6-E106B8A99C71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4038D0EA-5D99-45A2-B2A6-E106B8A99C71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4038D0EA-5D99-45A2-B2A6-E106B8A99C71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3277DC94-0605-4573-BF5A-582E75AB3328}
+	EndGlobalSection
+EndGlobal
